@@ -2,4 +2,14 @@ Aluno: Víctor Barbosa de Souza
 
 Atividade
 
--
+- Commit: é uma ação que tem por finalidade registrar mudanças realizadas em um repositório Git;
+- Branch: permite criar ramificações do código principal;
+- Merge: permite pegar as linhas criadas em um branch e as uni em um único branch;
+- Mainline: Trata-se do branch principal;
+- Clone: possui como objetivo clonar os arquivos de um repositório remoto para um repositório local;
+- Push: envia conteúdo de um repositório local para um remoto;
+- Pull: atualiza os branches locais de acordo com o remoto. Esse comando é a combinação de outros dois: get fetch e git merge;
+- Add: comando que pode adicionar arquivos ao índice;
+- Staged: local de alterações que estão em área de stage, onde são feitos um pull das modificações no repositório remoto.
+- Version: sistema de controle de versão que evita alterações que prejudique o código jonte de um projeto;
+- Repository: No repositório está contido todos os arquivos do projeto e histórico de revisão de cada arquivo.
